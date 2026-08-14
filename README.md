@@ -1,4 +1,3 @@
-
 # Purple Elf Lab Execution Logs
 =======
 # PurpleHomeLab
@@ -8,4 +7,4 @@ This is my first project and is a work in progress as I learn. View the Google D
 
 [Lab Journal](https://docs.google.com/document/d/1rYEkTRwo3_lAwYd9qyysgvw8OEdIT0whuvrBdyEucD4/edit?usp=sharing)
 
->>>>>>> 4732e78270b6fa3ca1e1f15cfabfd89d654ae29c
+
